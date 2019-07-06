@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringTest",
+            "request": "launch",
+            "mainClass": "main.java.br.com.fiap.App.SpringTest",
+            "projectName": "ProjetoFinal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientUtil",
+            "request": "launch",
+            "mainClass": "main.java.br.com.fiap.test.ClientUtil",
+            "projectName": "ProjetoFinal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringTest",
+            "request": "launch",
+            "mainClass": "main.java.br.com.fiap.test.SpringTest",
+            "projectName": "ProjetoFinal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClientUtil",
+            "request": "launch",
+            "mainClass": "br.com.fiap.test.ClientUtil",
+            "projectName": "ProjetoFinal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SpringTest",
+            "request": "launch",
+            "mainClass": "br.com.fiap.test.SpringTest",
+            "projectName": "ProjetoFinal"
+        }
+    ]
+}
